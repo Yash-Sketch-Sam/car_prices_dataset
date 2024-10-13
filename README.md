@@ -19,6 +19,8 @@ Developing a model based on vehicle attributes and market data will provide valu
 
 ## Importance of the Project:
 Dealerships: Better inventory management by understanding what types of vehicles sell more quickly and at higher prices.
+
 Buyers: Helping consumers identify which vehicles provide the best value for money based on condition and market trends.
+
 Financial Institutions: More accurate vehicle value assessments, which are critical for setting loan amounts and insurance policies.
 By answering these business questions, the project will deliver actionable insights to various stakeholders, leading to better decision-making in the automotive sales industry.
